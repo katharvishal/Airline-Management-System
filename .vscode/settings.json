@@ -1,0 +1,4 @@
+{
+    "dotnet.preferCSharpExtension": true,
+    "dotnet.defaultSolution": "airline-management-system-main/Airline/Airline.sln"
+}
